@@ -94,15 +94,25 @@ http://www.librarified.net/wp-content/uploads/2013/03/i-have-no-idea-what-im-doi
 
 You, sir, in the audience. With the T-Shirt that says "Linux Forever" on it. Stand up. 
 
-What's your name.  "Brent".
+What's your name.  
 
-Would you say that you're a real developer?   *nervously* "Yes... I would."
+    "Brent".
 
-Take off that T-shirt.  "I don't want to."
+Would you say that you're a real developer?  
 
-Take it off!    *sigh*  *takes off the t-shirt to reveal a full suit*
+    *nervously* "Yes... I would."
 
-You're a business major!    *hiss* *runs away*
+Take off that T-shirt.  
+
+    "I don't want to."
+
+Take it off!    
+
+    *sigh*  *takes off the t-shirt to reveal a full suit*
+
+You're a business major!    
+
+    *hiss* *runs away*
 
 Everybody be careful. They're everywhere. 
 
