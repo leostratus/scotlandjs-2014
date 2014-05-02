@@ -26,4 +26,6 @@ Rough Script
 
 "... or so I thought. Well, I'm here to apologize and tell you that I was wrong. There are impostors in our industry, and I'm positive some of them are here around you in this very room.""
 
+http://www.fastcodesign.com/3029639/innovation-by-design/why-vc-firms-are-snapping-up-designers?utm_source=facebook
+
 
