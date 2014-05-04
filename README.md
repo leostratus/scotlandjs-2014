@@ -9,13 +9,13 @@ Example biases:
 
 - designers and/or designer-developers can't program as well as pure devs
 - design is just fluff and pictures
-- if one doesn't see a lot of code commit on a designers' github, it must be because they don't code a lot - as opposed to coding on private, proprietary repos which a lot of people do for jobs - addresses the fallacy of assuming that if someone doesn't have a lot of open source, they are somehow inferior as a programmer.. a weird one
+- if one doesn't see a lot of code commits on a designers' github, it must be because they don't code a lot - as opposed to coding on private, proprietary repos which a lot of people do for jobs - addresses the fallacy of assuming that if someone doesn't have a lot of open source, they are somehow inferior as a programmer.. a weird one
 - devops just set up servers, they don't ACTUALLY program
 - anybody who knows how to make something look good is not to be trusted
 - everyone in programming is a dude, so I mean, clearly even Angelina is not a real developer
 - add bias here! there are many. I can't think of them all right now
 
-The talk should be delivered in a deadpan, super serious fashion, with the content being obvious juxtaposition with it's ridiculousness. Notes and slide suggestions in the rough script are inside square brackets.
+The talk should be delivered in a deadpan, super serious fashion, with the content being obvious juxtaposition with its ridiculousness. Notes and slide suggestions in the rough script are inside square brackets.
 
 By the end, the talk should address the content with something like 'if you think I sound ridiculous, well, this isn't far off from how ridiculous and arrogant you sound like when you say these things'. Something like that, perhaps. Still figuring out how to land this just right.
 
@@ -47,9 +47,9 @@ I didn't expect it to be as popular as it has been - in fact, Peter, who invited
 
 The imposters in our field go by many names, the most common one being: DESIGNERS
 
-[and each of these terms should be on it's own 'callout' style slide as Angelina walks through them]
+[and each of these terms should be on its own 'callout' style slide as Angelina walks through them]
 
-Sometimes, in attempt to impart their relevance, they may also refer to themselves as DESIGNER-DEVELOPERS, DESIGN-GINEERS, DEV-SIGNERS, or [would like a most ridiculous, never heard of term that gets a laugh here as the final one, drawing a blank right now]
+Sometimes, in attempts to impart their relevance, they may also refer to themselves as DESIGNER-DEVELOPERS, DESIGN-GINEERS, DEV-SIGNERS, or [would like a most ridiculous, never heard of term that gets a laugh here as the final one, drawing a blank right now]
 
 Obviously, the sole purpose of writing software is to trick some VC into giving you money so that you can make something that's kinda okay and then get bought out by a larger company who for some reason or another feel mildly threatened by your tiny but present market position, netting everyone who did very little a lot of money.
 
@@ -57,12 +57,12 @@ On your quest to acquire large sacks with dollar signs on them, you're going to 
 
 [definitely need some clipart of money bags with dollar signs on them, omg]
 
-I'm here today because I've made it easy for you. It's the least I could do after spreading such egregarious misinformation. I've figured out the easiest ways to find imposters in our field to make it easy for you to make money with wasting time on these codeless cretins. Although designers are the real culprits to watch out for, I've also spotted some other imposters along the way that we'll discuss as the need arises.
+I'm here today because I've made it easy for you. It's the least I could do after spreading such egregarious misinformation. I've figured out the easiest ways to find imposters in our field to make it easy for you to make money without wasting time on these codeless cretins. Although designers are the real culprits to watch out for, I've also spotted some other imposters along the way that we'll discuss as the need arises.
 
 They Make Things Look Good
 --------------------------
 
-The first clue that lets you know that you're dealing with someone who has design skills is that they make things look appealing to others. What we know from marketing psychology though, it that things don't need to look good in order for users to click on things and paticipate in the web economy.
+The first clue that lets you know that you're dealing with someone who has design skills is that they make things look appealing to others. What we know from marketing psychology though, that things don't need to look good in order for users to click on things and paticipate in the web economy.
 
 [Show some really ugly sales funnel sites, the kinds used to sell 'self help ebooks']
 
@@ -76,7 +76,7 @@ Since we know that we don't need websites to look good, it's easy to see what a 
 
 [show a beautiful site with lovely use of white space, transition to slide with big red arrows pointing at 'wasted space']
 
-Now just think of what we could accomplish if we were wasting all of that space?
+Now just think of what we could accomplish if we weren't wasting all of that space?
 
 [show same website cramped and plastered with ads]
 
@@ -107,7 +107,7 @@ Sometimes designers will figure out how to download code off the internet and ge
 
 [show some jQuery slideshow]
 
-A slideshow? Really? Nobody wants to watch a movie on the web, they just want to click on stuff. I know Youtube is really popular, but that's only for cat videos as cat media is the sole exception to most Rules of the Internet.
+A slideshow? Really? Nobody wants to watch a movie on the web, they just want to click on stuff. I know YouTube is really popular, but that's only for cat videos as cat media is the sole exception to most Rules of the Internet.
 
 [show jQuery datepicker]
 
@@ -116,7 +116,7 @@ Designers will argue that a calendar datepicker is 'easier' for users to get inf
 Anything Front-End is Not Real Programming
 ------------------------------------------
 
-By now it should be clear that anything that pertains to what the users sees and interacts with is barely relevant to actual programming. The Real Developers all work server side, probably in PHP, and sometimes Nodes JavaScript although we all know deep down that the Nodes are just a trend that will die soon. Long live PHP! PHP stands for Pretty Hardcore Programming, so you don't ever have to question it's legitimacy.
+By now it should be clear that anything that pertains to what the users sees and interacts with is barely relevant to actual programming. The Real Developers all work server side, probably in PHP, and sometimes Nodes JavaScript although we all know deep down that the Nodes are just a trend that will die soon. Long live PHP! PHP stands for Pretty Hardcore Programming, so you don't ever have to question its legitimacy.
 
 You just need to focus on your back-end, server-side code and do the bare minimum on the front-end because it doesn't really matter.
 
@@ -132,7 +132,7 @@ Now, on the other hand, if I *don't* know a thing, it's little more than a needl
 
 [picture of node.js logo with a halo; more controversial/maybe not appropo.. a picture of jesus holding up node.js logo]
 
-If someone says they are a developer and doesn't know all the things you know, chances are they are a sham too. It may be difficult for you to admit that a lot of your friends are shams, and probably a lot of the people you work with to. They may not be totally useless though, all you need to do is tell them that all they need to do is have the same opinions and knowledge as you, and that you're willing to talk at them at length about these things without interruption or break. Who wouldn't love that? Make sure you don't let them interject with any questions, those would just get in the way of the learning that needs to happen.
+If someone says they are a developer and doesn't know all the things you know, chances are they are a sham too. It may be difficult for you to admit that a lot of your friends are shams, and probably a lot of the people you work with too. They may not be totally useless though, all you need to do is tell them that all they need to do is have the same opinions and knowledge as you, and that you're willing to talk at them at length about these things without interruption or break. Who wouldn't love that? Make sure you don't let them interject with any questions, those would just get in the way of the learning that needs to happen.
 
 They're Not a 24-Year Old White Guy
 -------------------------------------
