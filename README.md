@@ -138,7 +138,7 @@ They're Not a 24-Year Old White Guy
 -------------------------------------
 Seriously? Why would you even want to be a software developer if you're not a 24-year-old white guy? 
 
-The whole reason we named our company "Mozzarella" is because we wanted it to be nothing but a uniform pasty white expanse of dudes named Chad or Trent.
+The whole reason we named our company "Mozzarella" is because we wanted it to be nothing but a uniform pasty white expanse of dudes named Matt or Dave.
 
 Soemtimes, people who are not white and people who are not men and sometimes both will contest this, but since there's so few of them, you don't really need to pay attention to them. I mean, who are they kidding? It's not like our industry isn't a complete meritocracy. All you have to do is work hard; the door is open. There's absolutely no reason to believe that this industry is hostile to people other than 24-year old white guys.
 
