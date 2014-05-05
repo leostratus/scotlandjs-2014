@@ -29,11 +29,11 @@ Rough Script and SLIDE PLANNIN'
 
 Hello, my name is Angelina Fabbro. I work on the developer wrench team at Mozzarella. You're probably familiar with our browser, Mozzarella Foxfire, 
 
-[would love a slide of the firefox logo made out of pizza, with the firefox being mozzarella]
+[would love a slide of the Firefox logo made out of pizza, with the Firefox being mozzarella]
 
 ..as well as Foxfire OS, the first mobile phone to target exclusively the red panda population. Despite dwindling numbers and endangered status with the World Wildlife Federation, red pandas use social media 210% more than all other animals, including humans. It was natural for us to tap that market and it's going quite well.
 
-[slide of a red panda, FxOS phone photoshopped poorly into it's paws]
+[slide of a red panda, FxOS phone photo-shopped poorly into it's paws]
 
 Last year at JSConf US, I gave a talk on how to be a better programmer. 
 
@@ -57,12 +57,12 @@ On your quest to acquire large sacks with dollar signs on them, you're going to 
 
 [definitely need some clipart of money bags with dollar signs on them, omg]
 
-I'm here today because I've made it easy for you. It's the least I could do after spreading such egregarious misinformation. I've figured out the easiest ways to find imposters in our field to make it easy for you to make money without wasting time on these codeless cretins. Although designers are the real culprits to watch out for, I've also spotted some other imposters along the way that we'll discuss as the need arises.
+I'm here today because I've made it easy for you. It's the least I could do after spreading such egregious misinformation. I've figured out the easiest ways to find imposters in our field to make it easy for you to make money without wasting time on these code-less cretins. Although designers are the real culprits to watch out for, I've also spotted some other impostors along the way that we'll discuss as the need arises.
 
 They Make Things Look Good
 --------------------------
 
-The first clue that lets you know that you're dealing with someone who has design skills is that they make things look appealing to others. What we know from marketing psychology though, that things don't need to look good in order for users to click on things and paticipate in the web economy.
+The first clue that lets you know that you're dealing with someone who has design skills is that they make things look appealing to others. What we know from marketing psychology though, that things don't need to look good in order for users to click on things and participate in the web economy.
 
 [Show some really ugly sales funnel sites, the kinds used to sell 'self help ebooks']
 
@@ -83,7 +83,7 @@ Now just think of what we could accomplish if we weren't wasting all of that spa
 They Know CSS
 ---------------
 
-Obviously, if you encounter someone who knows CSS, also known as California Style Sheets, they're a designer, not a developer. True developers work exclusively in the land of abstract bits. CSS is mainly used to make things look good on the web, which as we've already established is unecessary. In fact, industry expert [Dr. Jenn Schiffer published a whole article](https://medium.com/cool-code-pal/1f6430781393) on how to deprecate your CSS so that we have one less language in our stack to worry about.
+Obviously, if you encounter someone who knows CSS, also known as California Style Sheets, they're a designer, not a developer. True developers work exclusively in the land of abstract bits. CSS is mainly used to make things look good on the web, which as we've already established is unnecessary. In fact, industry expert [Dr. Jenn Schiffer published a whole article](https://medium.com/cool-code-pal/1f6430781393) on how to deprecate your CSS so that we have one less language in our stack to worry about.
 
 They Don't Know CSS
 ---------------------
@@ -96,7 +96,7 @@ be completely comfortable building them with nothing but ECMAScript, HTML, and C
 You're Concerned about User-Experience
 -----------------------------------------
 
-There's these other imposters who like to tell Real Developers what to do a lot of the time, and they're called 'user experience designers', interaction designers', and other fluffy terms like that. Basically these people are designers but _worse_. These jerks like to pretend they know how something should work so that users are not frustrated with your software. Mostly they just end up being annoying as they talk about things like use cases, user testing, and design patterns. You know as soon as the words 'design patterns' come up that you're dealing with another fraud from the world of design.
+There's these other impostors who like to tell Real Developers what to do a lot of the time, and they're called 'user experience designers', interaction designers', and other fluffy terms like that. Basically these people are designers but _worse_. These jerks like to pretend they know how something should work so that users are not frustrated with your software. Mostly they just end up being annoying as they talk about things like use cases, user testing, and design patterns. You know as soon as the words 'design patterns' come up that you're dealing with another fraud from the world of design.
 
 A user experience designer will probably tell you they know better than you about how to code something that the user sees. It's safe to ignore their suggestions. If your boss tells you to listen to them, only implement parts of what they explain to you to make it abundantly clear that _you_ control the domain of programming at the company, and that you're only going to take their 'advice' when you feel like it. Your users aren't going to notice a difference. We've already established you don't need great design to acquire users and clicks.
 
@@ -130,7 +130,7 @@ If I know a thing, it's a thing that you need to know in order to be a Real Deve
 
 Now, on the other hand, if I *don't* know a thing, it's little more than a needless abstraction that you don't need to know about to be an effective developer. Hey, do you know about how Java handles thread pooling, you might ask? Of course not, I'm a node.js developer. All of MY eventing is handled with an event loop, like GOD INTENDED. 
 
-[picture of node.js logo with a halo; more controversial/maybe not appropo.. a picture of jesus holding up node.js logo]
+[picture of node.js logo with a halo; more controversial / maybe not appropriate.. a picture of jesus holding up node.js logo]
 
 If someone says they are a developer and doesn't know all the things you know, chances are they are a sham too. It may be difficult for you to admit that a lot of your friends are shams, and probably a lot of the people you work with too. They may not be totally useless though, all you need to do is tell them that all they need to do is have the same opinions and knowledge as you, and that you're willing to talk at them at length about these things without interruption or break. Who wouldn't love that? Make sure you don't let them interject with any questions, those would just get in the way of the learning that needs to happen.
 
@@ -138,9 +138,9 @@ They're Not a 24-Year Old White Guy
 -------------------------------------
 Seriously? Why would you even want to be a software developer if you're not a 24-year-old white guy? 
 
-The whole reason we named our company "Mozzarella" is because we wanted it to be nothing but a uniform pasty white expanse of dudes named Chad or Trent.
+The whole reason we named our company "Mozzarella" is because we wanted it to be nothing but a uniform pasty white expanse of dudes named Matt or Dave.
 
-Soemtimes, people who are not white and people who are not men and sometimes both will contest this, but since there's so few of them, you don't really need to pay attention to them. I mean, who are they kidding? It's not like our industry isn't a complete meritocracy. All you have to do is work hard; the door is open. There's absolutely no reason to believe that this industry is hostile to people other than 24-year old white guys.
+Sometimes, people who are not white and people who are not men and sometimes both will contest this, but since there's so few of them, you don't really need to pay attention to them. I mean, who are they kidding? It's not like our industry isn't a complete meritocracy. All you have to do is work hard; the door is open. There's absolutely no reason to believe that this industry is hostile to people other than 24-year old white guys.
 
 [during previous paragraph narration, clip through several slides of NOT OKAY exclusionary behavior, be sure to pick stuff offensive but not overtly triggering to be sensitive to the audience]
 
@@ -148,13 +148,13 @@ In particular, women whine a lot about our industry. If only they would just app
 
 [feels like a punchy ironic slide could go here, no idea what yet. ideas?]
 
-This may lead you to wonder why someone who looks like a woman is giving this talk. Well, you see, I convinced myself I was a developer for a long time and tried to do serious, full time developer jobs writing Real Code with The Right Languages. But now that I'm in a role that is something like 'developer relations', which is basically 100% marketing all the time, everyone knows I must not write any code. In fact, after most technical talks I try and give (which would be better given by a man), someone always knows I'm an imposter. Yes, that's right, almost every time someone needs to ask me 'if I write any code' or assert to me 'that I must not write any code'. How right they are, and thank you for reminding me!
+This may lead you to wonder why someone who looks like a woman is giving this talk. Well, you see, I convinced myself I was a developer for a long time and tried to do serious, full time developer jobs writing Real Code with The Right Languages. But now that I'm in a role that is something like 'developer relations', which is basically 100% marketing all the time, everyone knows I must not write any code. In fact, after most technical talks I try and give (which would be better given by a man), someone always knows I'm an impostor. Yes, that's right, almost every time someone needs to ask me 'if I write any code' or assert to me 'that I must not write any code'. How right they are, and thank you for reminding me!
 
 Do they work with Servers, People, or Art Assets?
 --------------------------------------------------
 If you work with a server in any capacity, you're devops, and shouldn't be taken seriously as a developer. 
 
-I know, I know, you're going to tell me that someone needs to write the Nodes.js to get that user data that you need to accumulate and sell, and maybe those are kind of developers, but if you do anything else at all then you can't be a Real Developer. Sure, we can say that a Real Developer wrote The Linuxes once upon a time, but since then operating systems have basically been solved forever, and setting up a server and backing stuff up sometimes is not a real job, and it defintiely does not make you a Real Developer.
+I know, I know, you're going to tell me that someone needs to write the Nodes.js to get that user data that you need to accumulate and sell, and maybe those are kind of developers, but if you do anything else at all then you can't be a Real Developer. Sure, we can say that a Real Developer wrote The Linuxes once upon a time, but since then operating systems have basically been solved forever, and setting up a server and backing stuff up sometimes is not a real job, and it definitely does not make you a Real Developer.
 
 If you work with people, you're either a manager or a community interaction specialist of some kind. Either way you obviously you shouldn't be taken seriously as a developer. You might have learned to code as a hobby to try and get Real Developers to listen to what you're selling, and maybe some of them will be dumb enough to do that. Managers are basically babysitters to make sure the company only hires Real Developers and that they are meeting their minimum quota of lines of code per week to earn their salary. 
 
@@ -178,7 +178,7 @@ You Can't Be Wrong, Ever
 ---------------------
 There is nothing, nothing in the world, more poisonous to your reputation as a real developer than admitting that you don't know something - or, worse, admitting that you might at some point have been wrong about something. 
 
-You cannot be a code 'rock star', 'ninja', or expert of any kind if you are ever to admit being wrong. You have to be so perfect that you attain a kind of programmer god-hood amongst your peers. Often, you can measure this by the number of Twitter followers you have, so as you begin to have serious arguments with other developers on Twitter you will have a number of people willing to back you up at all costs, thus reinforcing that you are never wrong. Because if a lot of people on the internet say you're right, then you can sleep well at night knowing that you are right in the most absolute of terms.
+You cannot be a code 'rock star', 'ninja', or expert of any kind if you are ever to admit being wrong. You have to be so perfect that you attain a kind of programmer god-hood amongst your peers. Often, you can measure this by the number of Twitter followers you have, so as you begin to have serious arguments with other developers on Twitter you will have a number of people willing to back you up at all costs, thus reinforcing that you are never wrong. Because if a lot of people on The Internet say you're right, then you can sleep well at night knowing that you are right in the most absolute of terms.
 
 My recommendation is simple: if you think you're right about something, really dig in your heels. Argue about the issue at hand until you're red in the face, no matter how inconsequential. It doesn't matter what you accomplish - what really matters is that everybody around you acknowledges that you are right.
 
