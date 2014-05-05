@@ -91,14 +91,24 @@ I'm going to be frank with you. If you're using a framework or a toolkit that pr
 
 In order to build programs, you need to see through every abstraction and be able to work comfortably
 at the lowest possible layer. This means, if you're building Javascript applications, you simply _must_
-be completely comfortable building them with nothing but ECMAScript, HTML, and CSS until you deprecate it. 
+be completely comfortable building them with nothing but ECMAScript. That's right, you should be programming not with JavaScript, but with the _standard it's based on_. 
 
 You're Concerned about User-Experience
 -----------------------------------------
 
-There's these other imposters who like to tell Real Developers what to do a lot of the time, and they're called 'user experience designers', interaction designers', and other fluffy terms like that. Basically these people are designers but _worse_. These jerks like to pretend they know how something should work so that users are not frustrated with your software. Mostly they just end up being annoying as they talk about things like use cases, user testing, and design patterns. You know as soon as the words 'design patterns' come up that you're dealing with another fraud from the world of design.
+There's these other imposters who like to tell Real Developers what to do a lot of the time, and they're called 'user experience designers', interaction designers', and other fluffy terms like that. Basically these people are designers but _worse_. 
 
-A user experience designer will probably tell you they know better than you about how to code something that the user sees. It's safe to ignore their suggestions. If your boss tells you to listen to them, only implement parts of what they explain to you to make it abundantly clear that _you_ control the domain of programming at the company, and that you're only going to take their 'advice' when you feel like it. Your users aren't going to notice a difference. We've already established you don't need great design to acquire users and clicks.
+Not only do these jerks like to pretend they know how something should look, which is already terrible, they pretend to know how things should behave or act so that users are not frustrated with your software.
+
+Mostly they just end up being annoying as they talk about things like use cases, user testing, and design patterns. You know as soon as the words 'design patterns' come up that you're dealing with another fraud from the world of design.
+
+By telling you how the software should behave, they're telling you how you should write code.
+
+It's safe to ignore their arrogant suggestions, because nobody know how to code better than you do.
+
+If your boss tells you to listen to them, only implement parts of what they explain to you to make it abundantly clear that _you_ control the domain of programming at the company, and that you're only going to take their 'advice' when you feel like it. 
+
+Your users aren't going to notice a difference. We've already established you don't need great design to acquire users and clicks.
 
 They Write jQuery
 -----------------
@@ -132,7 +142,13 @@ Now, on the other hand, if I *don't* know a thing, it's little more than a needl
 
 [picture of node.js logo with a halo; more controversial/maybe not appropo.. a picture of jesus holding up node.js logo]
 
-If someone says they are a developer and doesn't know all the things you know, chances are they are a sham too. It may be difficult for you to admit that a lot of your friends are shams, and probably a lot of the people you work with to. They may not be totally useless though, all you need to do is tell them that all they need to do is have the same opinions and knowledge as you, and that you're willing to talk at them at length about these things without interruption or break. Who wouldn't love that? Make sure you don't let them interject with any questions, those would just get in the way of the learning that needs to happen.
+If someone says they are a developer and they don't know all the things you know, chances are they are a sham too. 
+
+It may be difficult for you to admit that a lot of your friends and co-workers are frauds.
+
+They may not be beyond hope though, all you need to do is explain to them that they need to have the same opinions and knowledge as you. 
+
+Be willing to talk to them, or rather, _at_ them at length about these things without interruption or break. Who wouldn't love that? Make sure you don't let them interject with any questions, those would just get in the way of the learning that needs to happen.
 
 They're Not a 24-Year Old White Guy
 -------------------------------------
