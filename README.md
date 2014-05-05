@@ -19,6 +19,12 @@ The talk should be delivered in a deadpan, super serious fashion, with the conte
 
 By the end, the talk should address the content with something like 'if you think I sound ridiculous, well, this isn't far off from how ridiculous and arrogant you sound like when you say these things'. Something like that, perhaps. Still figuring out how to land this just right.
 
+Sources of images, because it's best to use those when you can:
+
+Scrooge comic: http://en.wikipedia.org/wiki/File:UncleScroogeNo21.jpg
+Misandry: Jessica Dillon
+
+
 People who deserve mad credit for helping or bein' inspiring or both, or both and MORE:
 
 - Curtis Lassam
@@ -155,25 +161,39 @@ They're Not a 24-Year Old White Guy
 -------------------------------------
 Seriously? Why would you even want to be a software developer if you're not a 24-year-old white guy? 
 
-The whole reason we named our company "Mozzarella" is because we wanted it to be nothing but a uniform pasty white expanse of dudes named Matt or Dave.
+The whole reason we named our company "Mozzarella" is because we wanted it to be nothing but a uniform pasty white expanse of dudes named Matt or Dave. In fact, at one point in our company's history, 10% of employees were actually named Dave.
 
 Sometimes, people who are not white and people who are not men and sometimes both will contest this, but since there's so few of them, you don't really need to pay attention to them. I mean, who are they kidding? It's not like our industry isn't a complete meritocracy. All you have to do is work hard; the door is open. There's absolutely no reason to believe that this industry is hostile to people other than 24-year old white guys.
 
 [during previous paragraph narration, clip through several slides of NOT OKAY exclusionary behavior, be sure to pick stuff offensive but not overtly triggering to be sensitive to the audience]
 
-In particular, women whine a lot about our industry. If only they would just apply themselves and work as hard as the men, then they wouldn't have any problems. If a woman ever criticizes our industry for this, it's basically misandry, which is a very serious and growing problem. It might even be _systemic_ one day, and although it's not now, whenever a woman suggests that there may be inequality or addresses problems with men, be sure to interrupt them and make sure she knows NOT ALL MEN are the way she's described, and also that as a man, since the industry is filled with men, you must know best for the industry about all things, including other genders and races too, so tell them to just to be quiet so that you can tell them how it is.
+In particular, women whine a lot about our industry. If only they would just apply themselves and work as hard as the men, then they wouldn't have any problems. 
+
+If a woman ever criticizes our industry for this, this is called misandry, which is a very serious and growing problem. It might even be _systemic_ one day, and although it's not now, you should be real careful.
+
+Whenever a woman tries to address inequality problems with men, be sure to interrupt her and make sure she knows NOT ALL MEN are the way she's described, and also that as a man, since the industry is filled with men, 
+
+[oh god find that koolaid man bustin' in not all men image]
+
+..you must know best for the industry about all things, including other genders and races too, so tell them to just to be quiet so that you can tell them exactly how it is.
 
 [feels like a punchy ironic slide could go here, no idea what yet. ideas?]
 
-This may lead you to wonder why someone who looks like a woman is giving this talk. Well, you see, I convinced myself I was a developer for a long time and tried to do serious, full time developer jobs writing Real Code with The Right Languages. But now that I'm in a role that is something like 'developer relations', which is basically 100% marketing all the time, everyone knows I must not write any code. In fact, after most technical talks I try and give (which would be better given by a man), someone always knows I'm an impostor. Yes, that's right, almost every time someone needs to ask me 'if I write any code' or assert to me 'that I must not write any code'. How right they are, and thank you for reminding me!
+This may lead you to wonder why someone who looks like a woman is giving this talk. Well, you see, I convinced myself I was a Real Developer for a long time and tried to do serious, full time developer jobs writing Real Code with The Right Languages. But now that I'm in a role that is something like 'developer relations', which is basically 100% marketing all of the time, everyone knows I must not write any code. 
+
+In fact, after most technical talks I try and give (which would be better given by a man), someone always knows I'm an impostor. Yes, that's right, almost every time I give a talk about coding, someone needs to ask me 'if I write any code' or assert to me 'that I must not write any code'. How right they are, and thank you for reminding me!
 
 Do they work with Servers, People, or Art Assets?
 --------------------------------------------------
 If you work with a server in any capacity, you're devops, and shouldn't be taken seriously as a developer. 
 
-I know, I know, you're going to tell me that someone needs to write the Nodes.js to get that user data that you need to accumulate and sell, and maybe those are kind of developers, but if you do anything else at all then you can't be a Real Developer. Sure, we can say that a Real Developer wrote The Linuxes once upon a time, but since then operating systems have basically been solved forever, and setting up a server and backing stuff up sometimes is not a real job, and it definitely does not make you a Real Developer.
+I know, I know, you're going to tell me that someone needs to write the Nodes.js to get that user data that you need to accumulate and sell, and maybe those are kind of developers because anything is more important than the front-end - but if you do anything else at all on a server then you can't be a Real Developer. 
 
-If you work with people, you're either a manager or a community interaction specialist of some kind. Either way you obviously you shouldn't be taken seriously as a developer. You might have learned to code as a hobby to try and get Real Developers to listen to what you're selling, and maybe some of them will be dumb enough to do that. Managers are basically babysitters to make sure the company only hires Real Developers and that they are meeting their minimum quota of lines of code per week to earn their salary. 
+Sure, we can say that a Real Developer wrote The Linuxes once upon a time, but since then operating systems have basically been solved forever, and setting up a server and backing stuff up sometimes is not a real job, and it definitely does not make you a Real Developer.
+
+If you work with people, you're either a manager or a community interaction specialist of some kind. Either way you obviously you shouldn't be taken seriously as a developer. 
+
+You might have learned to code as a hobby to try and get Real Developers to listen to what you're selling, and maybe some of them will be dumb enough to do that. Managers are basically babysitters to make sure the company only hires Real Developers and that they are meeting their minimum quota of lines of code per week to earn their salary. 
 
 Community managers and developer relations types are just glorified feel-good nannies for the users of your product, whether they be end users or end developers (the latter being relevant if you're shipping code for other Real Developers to use)
 
@@ -183,21 +203,31 @@ Empty Github Account? Get out.
 ------------------------------
 Do you know what separates REAL Developers from fake ones? Real developers have dozens and dozens of projects in their GitHub account at any given time.
 
-Now, in order to accomplish this, you're going to have to give up a lot of your free time. If you're out hiking or having beers with your friends, you should be asking yourself: could I be coding right now? Am I a REAL developer? Also, you might have to slack off at work a little bit - there's nothing that kills your coding buzz like having to do work on copyrighted code on a private repository during normal work hours. 
+Now, in order to accomplish this, you're going to have to give up a lot of your free time. If you're out hiking or having beers with your friends, you should be asking yourself: could I be coding right now? Am I a REAL developer? Why don't I care more what everybody on the internet thinks about me?
 
-You might have other obligations like a family and kids, but nobody cares about that in the industry because you're supposed to be a 24 year old white guy willing to work long hours to the good of the company, and if you can't do that, you might as well give up now.
+Also, you might have to slack off at work a little bit - there's nothing that kills your coding buzz like having to do work on copyrighted code on a private repository during normal work hours. Real Developers never work on proprietary code and are 110% OPEN SOURCE HEROES ALWAYS AND FOREVER.
+
+You might have other obligations like a family and kids, but nobody cares about that in the industry because you're supposed to be a 24 year old white guy after all, willing to work long hours for the good of the company, and if you can't do that, you might as well give up now.
 
 Here's a game you could be playing: count all of your active github repositories, then include the number of open-source repositories you've forked. Finally, multiply this by the number of "favourites" that you have. This number is a measure of your value as a person and worth as a Real Developer.
 
-If your profile on Github is scant of influential open source contributions, nobody is going to take you seriously. Remember, proprietary code is as good as invisible and doesn't count. If you are hiring for a Real Developer, you'll be able to tell if they're serious by looking at their Github track record. Throw out their resume, resumes are obsolete now and won't tell you anything you need to know about a candidate's experience.
+If your profile on Github is scant of influential open source contributions, nobody is going to take you seriously. 
+
+Remember, proprietary code is as good as invisible and doesn't count. If you are hiring for a developer, you'll be able to tell if they're serious by looking at their Github track record. Throw out their resume, resumes are obsolete now and won't tell you anything you need to know about a candidate's experience.
 
 You Can't Be Wrong, Ever
 ---------------------
 There is nothing, nothing in the world, more poisonous to your reputation as a real developer than admitting that you don't know something - or, worse, admitting that you might at some point have been wrong about something. 
 
-You cannot be a code 'rock star', 'ninja', or expert of any kind if you are ever to admit being wrong. You have to be so perfect that you attain a kind of programmer god-hood amongst your peers. Often, you can measure this by the number of Twitter followers you have, so as you begin to have serious arguments with other developers on Twitter you will have a number of people willing to back you up at all costs, thus reinforcing that you are never wrong. Because if a lot of people on The Internet say you're right, then you can sleep well at night knowing that you are right in the most absolute of terms.
+You cannot be a code 'rock star', 'ninja', or expert of any kind if you are ever to admit being wrong. You have to be so perfect that you attain a kind of programmer god-hood amongst your peers. 
 
-My recommendation is simple: if you think you're right about something, really dig in your heels. Argue about the issue at hand until you're red in the face, no matter how inconsequential. It doesn't matter what you accomplish - what really matters is that everybody around you acknowledges that you are right.
+[slide with Emily Rose's quotes about opinions from JSCOnf 2013]
+
+Often, you can measure this by the number of Twitter followers you have, so as you begin to have serious arguments with other developers on Twitter you will have a number of people willing to back you up at all costs, thus reinforcing that you are never wrong. Because if a lot of people on The Internet say you're right, then you can sleep well at night knowing that you are right in the most absolute of terms.
+
+[culd use somebody's wrong on the internet XKCD here]
+
+My recommendation is simple: if you think you're right about something, really dig in your heels. Argue about the issue at hand until you're red in the face, no matter how inconsequential the issue might seem. Your pride is on the line! Your honor too! It doesn't matter what you accomplish - what really matters is that everybody around you acknowledges that you are right.
 
 You're Actually an Impostor
 -------------------------------
@@ -206,6 +236,8 @@ Okay, so, let's imagine you've done everything that you can to become a Real Dev
 That's because you're not. All of your coworkers are, but you're just a moron. Everybody talks about you behind your back all of the time. They know that you're not a Real Developer.
 
 You have no idea what you're doing. And the worst possible thing would be for someone around you to discover that you've been an impostor this whole time. 
+
+You better keep faking, and suffering, quietly.
 
 [http://www.librarified.net/wp-content/uploads/2013/03/i-have-no-idea-what-im-doing-dog.jpg]
 
