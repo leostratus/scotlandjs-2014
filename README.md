@@ -27,8 +27,13 @@ Misandry: Jessica Dillon
 
 People who deserve mad credit for helping or bein' inspiring or both, or both and MORE:
 
-- Curtis Lassam
-- Jenn Schiffer
+- Curtis Lassam (Talk structure suggestions, gag ideas)
+- Jenn Schiffer (The Queen of Industry Satire; inspiration through the roof)
+- Danilo Campos (Suggestor and producer of ridiculous imagery)
+- Jeff Griffiths (proofreading like a boss)
+- Dr. Bill Mills (proofreading also like a boss)
+- Twitter followers (some of y'all know how to find just the right kind of weird at the right time
+- Sole Penades (for helping me rehearse over and over while we were on vacation in Edinburgh)
 
 Rough Script and SLIDE PLANNIN'
 ===============================
