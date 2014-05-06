@@ -132,7 +132,7 @@ body:after {
 	margin:0 0 58px;
 	color:rgb(62,62,62);
 	text-transform: uppercase;
-	font:lighter 40px/1.13 'OpenSansLight', sans-serif;
+	font:lighter 40px/1.13 'Questrial', sans-serif;
 	}
 
 /* Elements */
@@ -153,7 +153,7 @@ body:after {
 .slide a[target=_blank]:after {
 	position:absolute;
 	margin-left:7px;
-	font-family:'Target Blank';
+	font-family:'Questrial', sans-serif;
 	content:'\005E';
 	}
 .slide b,
@@ -192,7 +192,7 @@ body:after {
 	position:absolute;
 	margin:-15px 0 0 -80px;
 	color:#666;
-	font:200px/1 'Open Sans', sans-serif;
+	font:200px/1 'Questrial', sans-serif;
 	content:'\201C'; /* ldquo */
 	}
 blockquote .quotesource {
@@ -403,7 +403,7 @@ blockquote .quotesource {
 	text-shadow:0 1px 1px #000;
 	}
 	.list .caption h1 {
-		font:bold 50px/1 'OpenSansRegular', sans-serif;
+		font:bold 50px/1 'Questrial', sans-serif;
 		}
 	.list .caption a {
 		color:#fff;
