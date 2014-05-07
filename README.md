@@ -19,24 +19,34 @@ The talk should be delivered in a deadpan, super serious fashion, with the conte
 
 By the end, the talk should address the content with something like 'if you think I sound ridiculous, well, this isn't far off from how ridiculous and arrogant you sound like when you say these things'. Something like that, perhaps. Still figuring out how to land this just right.
 
-Sources of images, because it's best to use those when you can:
+Sources of images, because it's best to cite those when you can:
 
 Scrooge comic: http://en.wikipedia.org/wiki/File:UncleScroogeNo21.jpg
-Misandry: Jessica Dillon
 
+Misandry Slayer crossover: Jessica Dillon
+
+VC Moneybags Chart, FxOS pandas, venn diagram: Danilo Campos
 
 People who deserve mad credit for helping or bein' inspiring or both, or both and MORE:
 
 - Curtis Lassam (Talk structure suggestions, gag ideas)
-- Jenn Schiffer (The Queen of Industry Satire; inspiration through the roof)
-- Danilo Campos (Suggestor and producer of ridiculous imagery)
+
+- "Dr." Jenn Schiffer (The Queen of Industry Satire; inspiration through the roof)
+
+- Danilo Campos (Producer of ridiculous imagery)
+
 - Jeff Griffiths (proofreading like a boss)
+
 - Dr. Bill Mills (proofreading also like a boss)
+
 - Twitter followers (some of y'all know how to find just the right kind of weird at the right time
-- Sole Penades (for helping me rehearse over and over while we were on vacation in Edinburgh)
+
+- Sole Penades (for helping me rehearse over and over while we were on vacation in Edinburgh, and a great screenshot of me from my JSConf 2013 talk)
 
 Rough Script and SLIDE PLANNIN'
 ===============================
+
+NOTE: THIS STUFF IS BEING MOVED INTO SPEAKER NOTES. Refer to footer tags in each slide if you want the skinny on the latest stuff, or just read this because it's still pretty fun I guess.
 
 Hello, my name is Angelina Fabbro. I work on the developer wrench team at Mozzarella. You're probably familiar with our browser, Mozzarella Foxfire, 
 
