@@ -8,9 +8,11 @@ Thanks and sources and stuff:
 
 Sources of images, because it's best to cite those when you can:
 
+Crayon drawing: http://ssb-kuropitplz.deviantart.com/art/Crayon-Drawing-6-316742883
+
 Misandry Slayer crossover graphic: Jessica Dillon
 
-VC Moneybags Chart, FxOS pandas, venn diagram: Danilo Campos
+VC Moneybags Chart, FxOS pandas, venn diagram, collages, cheerleading: Danilo Campos
 
 Actual Mozzarella Foxfire pizza: Christian Burtchen
 
