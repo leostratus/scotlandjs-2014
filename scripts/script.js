@@ -213,7 +213,7 @@
     if (window.console && slideList[slideNumber]) {
       var notes = document.querySelector('#' +slideList[slideNumber].id + ' .notes');
       if (notes) {
-        console.info(notes.innerHTML.replace(/\n\s+/g,'\n'));
+        console.info(notes.innerHTML.replace(/\n\s+/g,'\n\n'));
       }
       if (slideList[slideNumber+1]) {
         var next = document.querySelector('#' +slideList[slideNumber + 1].id + ' header');

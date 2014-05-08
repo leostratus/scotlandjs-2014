@@ -749,3 +749,11 @@ ul.inline li:last-child::after {
   50%  { transform: rotate(3deg) translate(-50%, -50%); }
   100% { transform: rotate(-3deg) translate(-50%, -50%); }
 }
+
+
+/* Angelina's customizations for Scotland JS */
+
+.shh {
+	/* So that h2 titles show up in speaker notes in dev console but not in the slide */
+	display: none;
+}
