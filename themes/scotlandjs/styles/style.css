@@ -350,7 +350,7 @@ blockquote .quotesource {
 	left: 6%;
 	/* width:100%; */
 	text-align:left;
-	line-height:1;
+	line-height:1.4;
 	font-size:70px;
 	-webkit-transform:translateY(-50%);
 	-moz-transform:translateY(-50%);
@@ -699,51 +699,23 @@ ul.inline li:last-child::after {
 	padding: .5em;
 }
 
-/* 	Animations */
-
-.smoothdemo {
-	transition: 0.5s;
-	-webkit-transition: 0.5s;
-}
-
-.full .slide:target .swing {
-  -moz-animation: swing linear 2s infinite;
-  -moz-transform-origin: 0 -55%;
-  -webkit-animation: swing ease-in-out 2s infinite;
-  -webkit-transform-origin: 0 -55%;
-  -o-animation: swing ease-in-out 2s infinite;
-  -o-transform-origin: 0 -55%;
-  animation: swing ease-in-out 2s infinite;
-  transform-origin: 0 -55%;
-}
-@-moz-keyframes swing {
-  0%   { -moz-transform: rotate3d(0deg,0,0) translate3d(-50%, -50%, 0); }
-  25%  { -moz-transform: rotate(3deg) translate(-50%, -50%); }
-  50%  { -moz-transform: rotate(0deg) translate(-50%, -50%); }
-  75%  { -moz-transform: rotate(-3deg) translate(-50%, -50%); }
-  100% { -moz-transform: rotate(0deg) translate(-50%, -50%); }
-}
-@-webkit-keyframes swing {
-  0%   {-webkit-transform: rotate(-3deg) translate(-50%, -50%); }
-  50%  {-webkit-transform: rotate(3deg) translate(-50%, -50%); }
-  100% {-webkit-transform: rotate(-3deg) translate(-50%, -50%); }
-}
-
-@-o-keyframes swing {
-  0%   { -o-transform: rotate(-3deg) translate(-50%, -50%); }
-  50%  { -o-transform: rotate(3deg) translate(-50%, -50%); }
-  100% { -o-transform: rotate(-3deg) translate(-50%, -50%); }
-}
-@keyframes swing {
-  0%   { transform: rotate(-3deg) translate(-50%, -50%); }
-  50%  { transform: rotate(3deg) translate(-50%, -50%); }
-  100% { transform: rotate(-3deg) translate(-50%, -50%); }
-}
-
-
 /* Angelina's customizations for Scotland JS */
 
 .shh {
 	/* So that h2 titles show up in speaker notes in dev console but not in the slide */
 	display: none;
 }
+
+.details {
+
+	left: 6%;
+	position: absolute;
+	bottom: 30%;
+}
+
+.flag {
+	position: absolute;
+	right: 6%;
+	top: 32%;
+}
+
