@@ -719,3 +719,11 @@ ul.inline li:last-child::after {
 	top: 32%;
 }
 
+.formula {
+	font-family:'monaco', 'courier', monospace;
+	line-height: 1.5;
+	position: absolute;
+	font-size: 30px;
+	top: 35%;
+}
+
